@@ -1,0 +1,8 @@
+{
+  "name": "Remix Bizly",
+  "description": "All-in-one business management for sales, inventory, M-PESA, debts, expenses, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
